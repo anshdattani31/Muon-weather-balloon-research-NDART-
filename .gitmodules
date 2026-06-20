@@ -1,3 +1,6 @@
 [submodule "cosmic_watch"]
 	path = cosmic_watch
 	url = https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector.git
+[submodule "cosmic_watch_v3X"]
+	path = cosmic_watch_v3X
+	url = https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v3X.git
