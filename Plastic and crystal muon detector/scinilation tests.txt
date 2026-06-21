@@ -1,0 +1,1 @@
+In this file holds the cosmic watch repo. The project will use every single file aside from testing different kinds of materials. Follow the cosmic watch instructions to create the muon detectors and stack them for concidentation.
