@@ -1,0 +1,12 @@
+# HAB Payload Python dependencies
+# Install with: pip3 install -r requirements.txt --break-system-packages
+
+# I2C / hardware abstraction (for BMP280 via adafruit library)
+adafruit-blinka
+adafruit-circuitpython-bmp280
+
+# UART serial communication (GPS, CosmicWatch, LoRa)
+pyserial
+
+# NMEA GPS sentence parsing
+pynmea2
