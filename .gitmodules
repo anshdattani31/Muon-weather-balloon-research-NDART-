@@ -4,3 +4,6 @@
 [submodule "Plastic and crystal muon detector/cosmic_watch_v3X"]
 	path = Plastic and crystal muon detector/cosmic_watch_v3X
 	url = https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v3X.git
+[submodule "Telemetry reciever/HABBase"]
+	path = Telemetry reciever/HABBase
+	url = https://github.com/daveake/HABBase.git
