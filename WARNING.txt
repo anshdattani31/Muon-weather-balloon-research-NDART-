@@ -1,3 +1,0 @@
-WARNING!!!! This code is untested and will prob cause your probe to explode or smth I have no clue. This is simply a proof of concept of what it should look like or something.
-
-Another warning is that this code looks horrible ok I got a 1 on AP CSA chill.
