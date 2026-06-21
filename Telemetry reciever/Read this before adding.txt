@@ -1,0 +1,1 @@
+Here is the files for the telemetry receiver. We will be using HABbase as it is the most common one. This has been optimized for a ESP32 system but I believe any module with a microcontroller works with this.
