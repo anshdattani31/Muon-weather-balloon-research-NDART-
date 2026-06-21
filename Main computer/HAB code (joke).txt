@@ -1,0 +1,9 @@
+print "hello world"
+errors = false
+If balloon = launch;
+    data = good;
+    camera = on
+    graph = make;
+when balloon launched
+    collec(data)
+    
