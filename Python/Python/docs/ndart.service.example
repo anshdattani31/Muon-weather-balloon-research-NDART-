@@ -1,0 +1,17 @@
+# Optional Raspberry Pi systemd template. NOT installed automatically.
+# Replace USERNAME, project path, Python path, profile path and data path first.
+[Unit]
+Description=N-Dart acquisition
+After=local-fs.target
+
+[Service]
+Type=simple
+User=USERNAME
+WorkingDirectory=/home/USERNAME/N-Dart
+ExecStart=/usr/bin/python3 -m ndart --headless --config /home/USERNAME/N-Dart/flight.json --output /home/USERNAME/N-Dart/data
+Restart=on-failure
+RestartSec=10
+TimeoutStopSec=30
+
+[Install]
+WantedBy=multi-user.target

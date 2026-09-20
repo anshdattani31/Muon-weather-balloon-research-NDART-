@@ -1,0 +1,4 @@
+{"type":"muon","detector_id":"CW1","timestamp":1789293600.1,"coincidence":true,"count":1,"pulse_placeholder":42.0}
+{"type":"muon","detector_id":"CW2","timestamp":1789293600.2,"coincidence":false,"count":1,"pulse_placeholder":23.0}
+{"type":"sensor","detector_id":"CW1","timestamp":1789293601.0,"temperature_c_placeholder":21.5,"pressure_hpa_placeholder":1012.0,"gyro_xyz_placeholder":[0,0,0]}
+{"type":"gnss","timestamp":1789293601.0,"fix_valid":false,"latitude_placeholder":0,"longitude_placeholder":0,"altitude_m_placeholder":0}

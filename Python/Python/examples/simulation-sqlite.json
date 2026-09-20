@@ -1,0 +1,4 @@
+{
+  "storage": "SQLite",
+  "compression": "zlib"
+}

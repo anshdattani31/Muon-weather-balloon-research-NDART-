@@ -1,0 +1,8 @@
+{
+  "source": "JSONL replay",
+  "replay_file": "examples/detector-records.jsonl",
+  "storage": "JSONL",
+  "transmit_sensors": true,
+  "transmit_gnss": true,
+  "event_rate": 1.0
+}
